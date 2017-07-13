@@ -129,7 +129,7 @@ query AllLinks {
 }
 ```
 
-You could now simply execute this query in a Playground and retrieve the results from your GraphQL server. But how can you use inside your Javascript code?
+You could now simply execute this query in a Playground and retrieve the results from your GraphQL server. But how can you use this from inside your Javascript code?
 
 
 ### Queries with Apollo Client
